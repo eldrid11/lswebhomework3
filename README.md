@@ -11,11 +11,11 @@
 
 ```
 
-My name is:
+My name is: Dustin Eldridge
 
-I like to:
+I like to: kayak
 
-I'm learning:
+I'm learning: web-dev because of Austen!
 
 ```
 
